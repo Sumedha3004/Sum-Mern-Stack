@@ -1,0 +1,13 @@
+body
+{
+    background-color: antiquewhite;
+}
+.Paragraph1{
+    border: 5px solid black;
+    position: absolute;
+    margin-top: 50px;
+}
+.Paragraph2{
+    border: 6px solid black;
+    position: absolute;
+}
