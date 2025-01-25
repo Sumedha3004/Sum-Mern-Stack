@@ -1,0 +1,23 @@
+.container
+{
+    background-color: beige;
+    height: 500px;
+}
+.one 
+{
+    background-color: orangered;
+    border: 4px solid black;
+    height: 200px;
+}
+.two
+{
+    background-color:white
+    border: 4px solid black;
+    height: 200px;
+}
+.three
+{
+    background-color:rgb(105, 237, 100);
+    border: 4px solid black;
+    height: 200px;
+}
